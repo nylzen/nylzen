@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🤔 &nbsp; Frontend developer and multimedia designer.
+- 🎓 &nbsp; Studying Fullstack Developer at [Nucba](https://nucba.com.ar/).
+- 🌱 &nbsp; Currently learning JavaScript.
+- 📫 &nbsp; Open to collaboration on projects and internship opportunities.
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Javascript.
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Sass.
+- 🔧 &nbsp; Git | Figma.
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=nylzen&show_icons=true)
+
+### 📫🤝🏻 Connect with Me
+
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/nelsontugores/) 👨🏻‍💻
+ - Shoot Me an [Email](mailto:tugoresn@gmail.com) 💌
+ - [GitHub Profile Summary](https://profile-summary-for-github.com/user/nylzen)
+
+
+
+
+ ⭐️ From [Nylzen](https://github.com/[nylzen])

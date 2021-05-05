@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Sass.
 - 🔧 &nbsp; Git | Figma.
 
+![](https://laurencteffeau.files.wordpress.com/2020/07/firecomputergliphy.gif)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=nylzen&show_icons=true)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=nylzen&show_icons=true)-->
 
 ### 📫🤝🏻 Connect with Me
 

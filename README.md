@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 
 
- ⭐️ From [Nylzen](https://github.com/[nylzen])
+ ⭐️ From [Nylzen](https://github.com/nylzen)

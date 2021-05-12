@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript.
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Sass.
+- 🌐 &nbsp; HTML | CSS | Tailwind | Sass.
 - 🔧 &nbsp; Git | Figma.
 
 ![](https://laurencteffeau.files.wordpress.com/2020/07/firecomputergliphy.gif)

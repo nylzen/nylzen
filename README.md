@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Frontend developer and multimedia designer.
 - 🎓 &nbsp; Studying Fullstack Developer at [Nucba](https://nucba.com.ar/).
-- 🌱 &nbsp; Currently learning JavaScript.
+- 🌱 &nbsp; Currently learning React / GSAP.
 - 📫 &nbsp; Open to collaboration on projects and internship opportunities.
 
 <h3>🛠 Tech Stack</h3>
@@ -28,9 +28,12 @@ Here are some ideas to get you started:
 - 🌐 &nbsp; HTML | CSS | Tailwind | Sass.
 - 🔧 &nbsp; Git | Figma.
 
+
 ![](https://laurencteffeau.files.wordpress.com/2020/07/firecomputergliphy.gif)
 
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=nylzen&show_icons=true)-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nylzen&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=nylzen&show_icons=true) -->
 
 ### 📫🤝🏻 Connect with Me
 

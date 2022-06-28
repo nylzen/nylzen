@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Frontend developer and multimedia designer.
-- 🎓 &nbsp; Studying Fullstack Developer at [Nucba](https://nucba.com.ar/).
-- 🌱 &nbsp; Currently learning React / GSAP.
+- 🎓 &nbsp; Mentoring Frontend Developer at [Nucba](https://nucba.com.ar/).
+- 🌱 &nbsp; Currently learning React.
 - 📫 &nbsp; Open to collaboration on projects and internship opportunities.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript.
-- 🌐 &nbsp; HTML | CSS | Tailwind | Sass.
+- 💻 &nbsp; React
+- 🌐 &nbsp; HTML | CSS | Tailwind | Javascript.
 - 🔧 &nbsp; Git | Figma.
 
 

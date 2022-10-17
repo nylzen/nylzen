@@ -19,29 +19,21 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Frontend developer and multimedia designer.
 - 🎓 &nbsp; Mentoring Frontend Developer at [Nucba](https://nucba.com.ar/).
-- 🌱 &nbsp; Currently learning React.
+- 🌱 &nbsp; Currently learning React / GSAP .
 - 📫 &nbsp; Open to collaboration on projects and internship opportunities.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; React
-- 🌐 &nbsp; HTML | CSS | Tailwind | Javascript.
-- 🔧 &nbsp; Git | Figma.
+- 🌐 &nbsp; Tailwind
+- 🔧 &nbsp; Figma.
 
 
 ![](https://laurencteffeau.files.wordpress.com/2020/07/firecomputergliphy.gif)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nylzen&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=nylzen&show_icons=true) -->
 
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/nelsontugores/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:tugoresn@gmail.com) 💌
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/nylzen)
-
-
-
-
- ⭐️ From [Nylzen](https://github.com/nylzen)

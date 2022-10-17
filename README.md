@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Frontend developer and multimedia designer.
 - 🎓 &nbsp; Mentoring Frontend Developer at [Nucba](https://nucba.com.ar/).
-- 🌱 &nbsp; Currently learning React / GSAP .
+- 🌱 &nbsp; Currently learning GSAP / NodeJS / TypeScript.
 - 📫 &nbsp; Open to collaboration on projects and internship opportunities.
 
 <h3>🛠 Tech Stack</h3>

@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Frontend developer and multimedia designer.
 - 🎓 &nbsp; Frontend Developer at [Nucba](https://nucba.com.ar/).
-- 🌱 &nbsp; Currently learning GSAP / NodeJS / TypeScript.
+- 🌱 &nbsp; Currently learning GSAP / NextJS / TypeScript.
 - 📫 &nbsp; Open to collaboration on projects and internship opportunities.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; ReactJS & NextJs
-- 🌐 &nbsp; Styled Components - Sass - Tailwind
+- 🌐 &nbsp; Styled Components | ChakraUI | Framer Motion
 - 🔧 &nbsp; Figma.
 
 

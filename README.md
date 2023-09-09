@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Frontend developer and multimedia designer.
-- 🎓 &nbsp; Frontend Developer at [Nucba](https://nucba.com.ar/).
+- 🎓 &nbsp; Frontend Developer at [Fizzmod](https://fizzmod.com/) / Frontend Mentor en [Nucba](https://nucba.com.ar/).
 - 🌱 &nbsp; Currently learning GSAP / NextJS / TypeScript.
 - 📫 &nbsp; Open to collaboration on projects and internship opportunities.
 

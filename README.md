@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; ReactJS & NextJs
-- 🌐 &nbsp; Styled Components | ChakraUI | Tailwind | Framer Motion
+- 🌐 &nbsp; Tailwind | Framer Motion | shadcn 
 - 🔧 &nbsp; Figma.
 
 

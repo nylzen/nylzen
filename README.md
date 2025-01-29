@@ -38,6 +38,5 @@ Here are some ideas to get you started:
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/nelsontugores/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:tugoresn@gmail.com) 💌
- - [GitHub Profile Summary](https://profile-summary-for-github.com/user/nylzen)
 
 ![](https://laurencteffeau.files.wordpress.com/2020/07/firecomputergliphy.gif)

@@ -18,22 +18,26 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Frontend developer and multimedia designer.
-- 🎓 &nbsp; Frontend Developer at [Nucba](https://nucba.com.ar/).
-- 🌱 &nbsp; Currently learning GSAP / NextJS / Angular.
-- 📫 &nbsp; Open to collaboration on projects and internship opportunities.
+- 🎓 &nbsp; Frontend Developer at [Zentor](https://zentor.io) | [Nucba](https://nucba.com.ar/).
+<!-- - 🌱 &nbsp; Currently learning GSAP / NextJS / Angular. -->
+- 💡 Passionate about web development, UI/UX, and creating seamless user experiences.  
+- 🤝 Open to collaborations on exciting projects and new technologies.
 
+---
+  
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; ReactJS & NextJs
-- 🌐 &nbsp; Tailwind | Framer Motion | shadcn  | GSAP
-- 🔧 &nbsp; Figma | After Effects
+- 💻 **Frontend:** ReactJS | Next.js | TypeScript  
+- 🎨 **Styling & Animations:** Tailwind | Framer Motion | shadcn | GSAP | styled-components  
+- 🔧 **State Management:** Redux | RTK Query  
+- 🖌 **Design & Multimedia:** Figma | After Effects  
 
-
-![](https://laurencteffeau.files.wordpress.com/2020/07/firecomputergliphy.gif)
-
+---
 
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/nelsontugores/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:tugoresn@gmail.com) 💌
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/nylzen)
+
+![](https://laurencteffeau.files.wordpress.com/2020/07/firecomputergliphy.gif)
